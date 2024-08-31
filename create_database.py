@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Module that creates the database for the project DoctorGestures
+Module that creates the database for the project DoctorGestures.
 """
 
 from sqlalchemy import create_engine
